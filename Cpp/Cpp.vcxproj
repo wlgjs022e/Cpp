@@ -140,8 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="0322_1.cpp" />
+    <ClCompile Include="0322_2.cpp" />
+    <ClCompile Include="0322_3.cpp" />
+    <ClCompile Include="0322_4.cpp" />
+    <ClCompile Include="1193.cpp" />
     <ClCompile Include="1712.cpp" />
     <ClCompile Include="2292.cpp" />
+    <ClCompile Include="2869.cpp" />
+    <ClCompile Include="bank.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
