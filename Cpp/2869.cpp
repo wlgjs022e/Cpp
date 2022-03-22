@@ -5,22 +5,14 @@
 //int main() {
 //
 //
-//	int a, b, c;
-//	int cnt = 0;
+//	int a, b, v;
+//	int day = 0;
 //	int temp = 0;
+//	int cnt = 0;
 //
-//	cin >> a >> b >> c;
+//	cin >> a >> b >> v;
 //
-//	for (int i = 0; i < c; i++) {
-//		temp += a - b;
-//		cnt++;
-//		if (temp >= c) {
-//			break;
-//		}
-//	}
-//
-//	cout << cnt;
-//
+//	cout << (v - a) + 1 << endl;
 //
 //
 //	return 0;
